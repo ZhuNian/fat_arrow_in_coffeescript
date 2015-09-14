@@ -1,28 +1,9 @@
-== README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+- 用js说明，this在js中的三种情况
+  - 在普通函数内
+  - 与变量关联时
+  - 作为事件相应中
+- 说明coffee中的情况
+  - coffee中的arrow
+  - coffee中的fat arrow
+- 总结
+  - 在什么情况下使用fat arrow
